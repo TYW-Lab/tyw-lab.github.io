@@ -18,7 +18,7 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
+    @include span(12 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(2 of 12);
   }
@@ -73,7 +73,7 @@
   }
 
   a {
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
       text-decoration: underline;
@@ -370,6 +370,45 @@
   a {
     text-decoration: none;
   }
+}
+
+.row {
+    display: flex; /* This enables the flexbox layout mode, which makes creating rows and columns easy */
+    flex-wrap: nowrap; /* This ensures the columns don't wrap to the next line */
+    align-items: left; /* Vertically centers the content in the row */
+    margin-bottom: 20px; /* Adds some spacing after each row */
+}
+
+.columnfig, .columntext {
+    padding: 10px; /* Adds some spacing around the content in each column */
+}
+
+.columnfig {
+    width: 38%;
+    flex-basis: 38%; /* Sets the default width of the image column */
+    flex-grow: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.columntext {
+    width: 62%;
+    flex-basis: 62%; /* Sets the default width of the image column */
+    flex-grow: 1; /* Allows the text column to take up the remaining space in the row */
+}
+
+.columnfighalf {
+  width: 45%;
+  flex-basis: 45%; /* Sets the default width of the image column */
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.columntexthalf {
+  width: 55%;
+  flex-basis: 55%; /* Sets the default width of the image column */
+  flex-grow: 1; /* Allows the text column to take up the remaining space in the row */
 }
 
 
