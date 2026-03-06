@@ -6,7 +6,7 @@ author_profile: false
 
 Welcome to <span style="color: #cc0000;">Tianyu Wang Research Group</span> in the Department of Electical and Computer Engineering at Boston University!
 
-We are interested in investigating different forms of information processing that occur in natural and artificial physical systems, and explore their real-world applications in enhancing <span style="color: #cc0000;">imaging, sensing, data communication, and AI inference systems</span>. These unconventional physical processors usually fall within one or more of the following regimes:
+We are interested in investigating different forms of information processing that occur in natural and artificial physical systems, and explore their real-world applications in enhancing <span style="color: #cc0000;">imaging, sensing, data communication, and AI computing systems</span>. These unconventional physical processors involve one or more of the following paradigms:
 
 1. Analog and stochastic computing
 2. Neuromorphic computing
