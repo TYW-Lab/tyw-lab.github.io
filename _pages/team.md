@@ -153,11 +153,12 @@ author_profile: false
 
 			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<p><span style="font-weight:bold;">Yongning Young Ma</span>, Master's Student — M.S., 2025 <span style="color:#bb0000;"> >>> </span> Digital Design Engineer, Texas Instruments<br />
-				Legacy: Founding member of the lab; set up the lab server and initiated FPGA programming projects. </p>
+				Legacy: Founding member of the lab; professionally set up and configured the lab server; initiated and led FPGA programming projects. </p>
 			</div>
 
 			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
-				<p><span style="font-weight:bold;">Andrew Sasamori</span>, Undergraduate Researcher — B.S., 2025 </p>
+				<p><span style="font-weight:bold;">Andrew Sasamori</span>, Undergraduate Researcher — B.S., 2025<br />
+				Legacy: Independently studied and elucidated the principle of Kolmogorov-Arnold Networks (KAN) to the lab.</p>
 			</div>
 
 			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
