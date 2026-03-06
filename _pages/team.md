@@ -69,6 +69,7 @@ author_profile: false
 						Joined Lab in 2025<br />
 						B.S. in Optoelectronics, Shenzhen University, China <br /><br />
 						<b>Research interests:</b> Biomedical Optics<br /><br />
+						<a href="https://www.linkedin.com/in/zipei-wu-694b66262/" target="_blank">LinkedIn</a> | <a href="https://garyhost0630.github.io" target="_blank">Personal Website</a>
 					</div>
 				</div>
 			</div>
@@ -116,8 +117,7 @@ author_profile: false
 						Class of 2026 | Computer Engineering <br />
 						Joined Lab in 2024 <br />
 						UROP Summer 2025, Fall 2025 <br /><br />
-						<b>Research interests:</b> Digital System Design (FPGA) <br /><br />
-						<a href="https://linkedin.com/" target="_blank">LinkedIn</a> | <a href="https://github.com/" target="_blank">GitHub</a>
+						<b>Research interests:</b> Digital System Design (FPGA) <br />
 					</div>
 				</div>
 			</div>
@@ -132,8 +132,7 @@ author_profile: false
 						Class of 2026 | Electrical Engineering with a minor in Physics <br />
 						Joined Lab in 2025 <br />
 						UROP Spring 2026 <br /><br />
-						<b>Research interests:</b> Optics and Lasers <br /><br />
-						<a href="https://linkedin.com/" target="_blank">LinkedIn</a> | <a href="https://github.com/" target="_blank">GitHub</a>
+						<b>Research interests:</b> Optics and Lasers <br />
 					</div>
 				</div>
 			</div><br clear="all" />
