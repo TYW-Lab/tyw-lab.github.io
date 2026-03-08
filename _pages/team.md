@@ -20,10 +20,10 @@ author_profile: false
 						<span style="font-size:14pt; font-weight:bold;">Tianyu Wang</span><br />
 						Assistant Professor<br />
 						Ph.D. in Applied Physics, Cornell University <br />
-						<a href="https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/" target="_blank">Department of Electrical & Computer Engineering</a><br />
-						<a href="https://www.bu.edu/photonics/" target="_blank">Photonics Center</a> | <a href="https://www.bu.edu/neurophotonics/people/faculty/" target="_blank">Neurophotonics Center (NPC)</a> | <a href="https://www.bu.edu/cise/" target="_blank">Center for Information & Systems Engineering (CISE)</a><br /><br />
+						<a href="https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/" target="_blank" style="color:inherit; text-decoration:underline;">Department of Electrical & Computer Engineering</a><br />
+						<a href="https://www.bu.edu/photonics/" target="_blank" style="color:inherit; text-decoration:underline;">Photonics Center</a> | <a href="https://www.bu.edu/neurophotonics/people/faculty/" target="_blank" style="color:inherit; text-decoration:underline;">Neurophotonics Center (NPC)</a> | <a href="https://www.bu.edu/cise/" target="_blank" style="color:inherit; text-decoration:underline;">Center for Information & Systems Engineering (CISE)</a><br /><br />
 						Email: wangty_AT_bu.edu<br />
-						<a href="https://scholar.google.com/citations?user=_mzQX1EAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/tianyu-wang-44247040" target="_blank">LinkedIn</a>
+						<a href="https://scholar.google.com/citations?user=_mzQX1EAAAAJ&hl=en" target="_blank">Google Scholar</a> | <a href="https://www.linkedin.com/in/tianyu-wang-44247040" target="_blank">LinkedIn</a> | <a href="/files/CurriculumVitae_Dec_2025.pdf" target="_blank">CV</a>
 					</div>
 				</div>
 			</div><br clear="all" />
