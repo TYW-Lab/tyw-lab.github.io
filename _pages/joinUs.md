@@ -5,6 +5,8 @@ title: "Join Us"
 author_profile: true
 ---
 
+First and foremost, we welcome <i>anyone</i> who is passionate about science and desries to grow as a researcher. 
+
 <b>For current or prospective Ph.D. students</b>: <u>Fall 2026 Ph.D. recruitment is now closed</u>. Applicants interested in the Fall 2027 admission cycle are encouraged to email me directly with a clear description of their interest and prior experience in one or more of the areas below:
 
 * <u>Photonics</u>: Most relevant areas include optical microscopy, photonic integrated circuit simulation, design, layout, and characterization.
@@ -21,11 +23,11 @@ A unique benefit of attending Boston University is its [strategic location](/con
   <br />
   The best outcome of PhD study is to create something new and non-trivial, be it a discovery of a new method or phenomenon, or a new perspective on old theories. An outstanding PhD thesis should generate knowledge that cannot be easily inferred from the existing body of human knowledge, while also being broadly applicable and inspiring for others. Achieving this goal generally requires close collaboration between the trainee and the advisor. PhD candidates with the following qualities tend to enjoy this process, and are thus more likely to succeed:
   <ol>
-  <li>Intellectual Curiosity: Feel deeply rewarded by discovery and creation, and are motivated to explore uncharted territory and solve open-ended problems. </li>
-  <li>Personality Core: Capable of deriving joy from day-to-day activities of research, rather than feeling forced to do so.  </li>
-  <li>Work Ethics: Value productivity; stay focused on the central problem and continually adapt plans to approach the goal. </li>
+  <li>Intellectual Curiosity: Feel deeply rewarded by discovery and creation; motivated to explore uncharted territory and solve open-ended problems. </li>
+  <li>Personality Core: Capable of deriving joy from day-to-day research activities, at least from some parts of research.  </li>
+  <li>Work Ethics: Value productivity; have clear priority, and stay focused on the main task. </li>
   <li>Input Skills: Being a natural learner; capable of assimilating skills from a broad range of areas to solve their research problems. </li>
-  <li>Output Skills: Acknowledge that good communication is equally beneficial for oneself and their team; strive to explain ideas in a coherent way, and plans in an actionable way. </li>
+  <li>Output Skills: Acknowledge that good communication is beneficial for oneself and their team; strive to explain ideas in a coherent and actionable way. </li>
   <li>Personal Skills: Thrive in collaborative environments, value knowledge-sharing, and actively seek feedback, especially critical ones. </li>
   </ol>  
 </details>

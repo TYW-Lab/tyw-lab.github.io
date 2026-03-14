@@ -15,7 +15,7 @@ We are interested in investigating different forms of information processing tha
 5. In-memory computing
 6. Optical pre-processing and encoding
 
-By combining these unconventional computing paradigms with different physical substrates, we seek to engineer computing, sensing, and imaging systems that are faster, more robust, and more energy efficient than traditional technologies based on solely on digital electronics. 
+By combining these unconventional computing paradigms with different physical substrates, we seek to engineer computing, sensing, and imaging systems that surpass the speed and energy efficiency limit of traditional technologies based on solely on digital electronics.
 
 <a href="https://tyw-lab.github.io/research/" class="btn" style="margin-bottom:100px;">Learn More</a>
 
@@ -26,6 +26,9 @@ We gratefully acknowledge the generous supports from all the external sponsors.
 
 <div style="display:flex; align-items:center; gap:40px;">
     <img src="../images/funding/Chan_Zuckerberg_Initiative.png" style="height:80px; width:auto;"/>
-    <img src="../images/funding/Ayo_electronics.png" style="height:80px; width:auto;"/>
-    <img src="../images/funding/logo-gf-horizontal.svg" style="height:60px; width:auto;"/>
+    <img src="../images/funding/Ayo_electronics.png" style="height:70px; width:auto;"/>
+    <img src="../images/funding/logo-gf-horizontal.svg" style="height:50px; width:auto;"/>
+</div>
+<div style="display:flex; align-items:center; gap:40px; margin-top:20px;">
+    <img src="../images/funding/nvidia-logo-horz.png" style="height:110px; width:auto; margin-left:-20px;"/>
 </div><br clear="all" />
