@@ -7,11 +7,7 @@ author_profile: true
 
 First and foremost, we welcome <i>anyone</i> who is passionate about science and desries to grow as a researcher. 
 
-<b>For current or prospective Ph.D. students</b>: <u>Fall 2026 Ph.D. recruitment is now closed</u>. Applicants interested in the Fall 2027 admission cycle are encouraged to email me directly with a clear description of their interest and prior experience in one or more of the areas below:
-
-* <u>Photonics</u>: Most relevant areas include optical microscopy, photonic integrated circuit simulation, design, layout, and characterization.
-* <u>Computing</u>: Most relevant experiences include trianing small models using supervised or reinforcement learning and deploying large models on GPU clusters. Please highlight CS courses and projects you have accomplished.
-* <u>Biomedicine</u>: It is preferred for the applicant to have received training in a biomedical field with a desire to apply optical imaging to studying specific biological questions (e.g., in neuroscience, or disease studies).
+<b>For 2027 PhD applicants</b>: We have a 4-year NSF-Industry integrated PhD position in the direction of photonic integrated circuits in collaboration with industry. Interested applicants should directly [contact the PI](/contact/) indicating their interest.
 
 Typically, my lab receives Ph.D. applications through the [ECE Ph.D. program](https://www.bu.edu/eng/admissions/graduate/graduate-admissions/application-deadlines-requirements/), in Electrophysics (EP) or Information and Data Science (IDS) track. For fall matriculation, the deadline for application is <b>December 15</b> of the prior year. Enrolled Ph.D. students have their tuition fully covered by the department, and receive a stipend for research or teaching activities ([ECE PhD handbook](https://www.bu.edu/eng/files/2022/09/ECE.PhD_.Handbook.pdf); [BME PhD handbook](https://www.bu.edu/eng/files/2023/10/BME-PhD-Handbook-Fall-2023.pdf)). Applicants are strongly encouraged to apply to internal and external graduate fellowships ([here](https://www.bu.edu/photonics/prt/benefits-of-a-photonics-center-phd-trainee/); p.10 in the [ECE PhD handbook](https://www.bu.edu/eng/files/2022/09/ECE.PhD_.Handbook.pdf)). 
 

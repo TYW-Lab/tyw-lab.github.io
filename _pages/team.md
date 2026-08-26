@@ -110,21 +110,6 @@ author_profile: false
 			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row" style="align-items: center;">
 					<div style="width:25%; padding:10px;">
-						<img src="../images/team/Zitong_He.jpeg" width="60%" style="border-radius: 5px;"/>
-					</div>
-					<div style="width:75%; padding:10px;">
-						<span style="font-size:14pt; font-weight:bold;">Zitong He</span><br />
-						Class of 2026 | Computer Engineering <br />
-						Joined Lab in 2024 <br />
-						UROP Summer 2025, Fall 2025 <br /><br />
-						<b>Research interests:</b> Digital System Design (FPGA) <br />
-					</div>
-				</div>
-			</div>
-
-			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
-				<div class="row" style="align-items: center;">
-					<div style="width:25%; padding:10px;">
 						<img src="../images/team/Esther_Xu.jpeg" width="60%" style="border-radius: 5px;"/>
 					</div>
 					<div style="width:75%; padding:10px;">
@@ -157,6 +142,11 @@ author_profile: false
 			</div>
 
 			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
+				<p><span style="font-weight:bold;">Zitong He</span>, Undergraduate Researcher — B.S., 2026 <span style="color:#bb0000;"> >>> </span> M.S. in Electrical Engineering, Columbia University<br />
+				Legacy: Developed the FPGA system for photodiode array readout.</p>
+			</div>
+
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<p><span style="font-weight:bold;">Andrew Sasamori</span>, Undergraduate Researcher — B.S., 2025<br />
 				Legacy: Independently studied and elucidated the principle of Kolmogorov-Arnold Networks (KAN) to the lab.</p>
 			</div>
@@ -171,8 +161,13 @@ author_profile: false
 			</div>
 
 			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
-				<p><span style="font-weight:bold;">Shuwen Xue</span>, Undergraduate Researcher (Summer 2025) — Undergraduate at Zhejiang University<br />
-				Legacy: Benchmarked different spatial light modulators and piezoelectric motors; worked on multi-plane light conversion for generating optical angular momentum beams; investigated AI tools for experiment automation.</p>
+				<p><span style="font-weight:bold;">Cliff Sia</span>, Summer Student (NTU-BU Summer Program 2026) — Undergraduate at Nanyang Technological University<br />
+				Legacy: Digital circuit designer.</p>
+			</div>
+
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
+				<p><span style="font-weight:bold;">Yuqian Wang</span>, Summer Student (2026) — Undergraduate at Zhejiang University<br />
+				Legacy: A user feedback website for data collection and more.</p>
 			</div>
 
 

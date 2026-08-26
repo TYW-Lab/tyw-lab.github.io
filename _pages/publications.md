@@ -12,6 +12,11 @@ author_profile: false
 
 <section id="main" >
 	<div class="inner">
+		<h2 style="margin-left: -50px;">2026</h2>
+			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
+				For the most updated record, please check <a href="https://scholar.google.com/citations?hl=en&tzom=300&user=_mzQX1EAAAAJ" target="_blank">Google Scholar</a>. Thumbnails of papers are coming up later.
+			</div><br clear="all" />
+
 		<h2 style="margin-left: -50px;">2025</h2>
 			<div style="font-size:12pt;line-height:1.5;margin-left: -50px;">
 				<div class="row">
